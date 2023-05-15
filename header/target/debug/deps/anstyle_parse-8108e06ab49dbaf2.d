@@ -1,0 +1,11 @@
+/home/ujjwal/Documents/learn_Rust/header/target/debug/deps/anstyle_parse-8108e06ab49dbaf2.rmeta: /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/ujjwal/Documents/learn_Rust/header/target/debug/deps/libanstyle_parse-8108e06ab49dbaf2.rlib: /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/ujjwal/Documents/learn_Rust/header/target/debug/deps/anstyle_parse-8108e06ab49dbaf2.d: /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs:
