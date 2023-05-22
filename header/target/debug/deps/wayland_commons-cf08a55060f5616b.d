@@ -1,0 +1,11 @@
+/home/ujjwal/Documents/learn_Rust/header/target/debug/deps/wayland_commons-cf08a55060f5616b.rmeta: /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs
+
+/home/ujjwal/Documents/learn_Rust/header/target/debug/deps/wayland_commons-cf08a55060f5616b.d: /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs /home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs
+
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs:
+/home/ujjwal/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs:
