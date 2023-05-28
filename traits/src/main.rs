@@ -7,7 +7,7 @@ pub struct NewsArticle {
 
 impl Summary for NewsArticle {
     fn summarize(&self) -> String {
-        format!("{}, by {} ({})", self.headline, self.author, self.location);
+        format!("{}, by {} ({})", self.headline, self.author, self.location)
     }
 }
 
@@ -20,8 +20,12 @@ pub struct Tweet {
 
 impl Summary for Tweet {
     fn summarize(&self) -> String {
-        format!("{}: {}", self.username, self.content);
+        format!("{}: {}", self.username, self.content)
     }
+}
+
+pub trait Summary{
+    fn summarize(&self) -> String;
 }
 
 fn main() {
@@ -36,6 +40,7 @@ fn main() {
         author: String::from("John Doe"),
         headline: String::from("Look down"),
         content: String:: from("Look above the sky"),
+        location: String::from("kathmandu"),
     };
 
     println!("Tweet summary:{}", tweet.summarize());
